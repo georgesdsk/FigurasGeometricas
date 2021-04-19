@@ -1,0 +1,10 @@
+
+]
+java:S1854";Remove this useless assignment to local variable "figuras".(¼æğûÿÿÿÿ8Îåó«/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø³÷Âüÿÿÿÿ8Ø¡Ì«/
+Q
+java:S3740"/Provide the parametrized type for this generic.(¼æğûÿÿÿÿ8ñ‘ô«/
+N
+java:S1481",Remove this unused "figuras" local variable.(¼æğûÿÿÿÿ8Îåó«/
+T
+java:S1481"7Remove this unused "figuraSeleccionada" local variable.(ó‘îê8ö†ö«/

@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø³÷Âüÿÿÿÿ
+N
+java:S1172"3Remove this unused method parameter "fechaEscrita".(¯ºÎ®þÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "formato".(¼Òš’
+K
+java:S2209"5Change this instance-reference to a static reference.(úÔ‘ú
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°Ô§ñýÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(äð±Àøÿÿÿÿ
+M	java:S106."9Replace this use of System.out or System.err by a logger.(©çÍT
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(Øµ‰¸üÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(ÎŸØäüÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(¼êºÌþÿÿÿÿ
+B
+java:S1481",Remove this unused "formato" local variable.(¼Òš’
